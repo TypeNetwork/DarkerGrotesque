@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="479"/>
+  <unicode hex="0050"/>
+  <guideline x="341" y="232" angle="90"/>
+  <guideline x="96" y="540" angle="90"/>
+  <outline>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="96" y="563" type="line"/>
+      <point x="70" y="563" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="563" type="line"/>
+      <point x="90" y="537" type="line"/>
+      <point x="272" y="537" type="line"/>
+      <point x="379" y="537"/>
+      <point x="429" y="492"/>
+      <point x="429" y="393" type="curve"/>
+      <point x="429" y="297"/>
+      <point x="376" y="251"/>
+      <point x="272" y="251" type="curve"/>
+      <point x="89" y="251" type="line"/>
+      <point x="89" y="224" type="line"/>
+      <point x="272" y="224" type="line"/>
+      <point x="389" y="224"/>
+      <point x="454" y="283"/>
+      <point x="454" y="393" type="curve"/>
+      <point x="454" y="506"/>
+      <point x="393" y="563"/>
+      <point x="272" y="563" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/12/30 18:32:44</string>
+    </dict>
+  </lib>
+</glyph>

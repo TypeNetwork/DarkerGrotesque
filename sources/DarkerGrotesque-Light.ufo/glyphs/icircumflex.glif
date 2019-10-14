@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icircumflex" format="2">
+  <advance width="160"/>
+  <unicode hex="00EE"/>
+  <guideline x="73" y="-60" angle="90"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="86" y="404" type="line"/>
+      <point x="85" y="404"/>
+      <point x="60" y="404"/>
+      <point x="60" y="404" type="curve"/>
+    </contour>
+    <component base="circumflexcomb" xOffset="-120" yOffset="-171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 03:17:28</string>
+    </dict>
+  </lib>
+</glyph>

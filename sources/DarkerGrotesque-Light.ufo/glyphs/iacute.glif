@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="131"/>
+  <unicode hex="00ED"/>
+  <guideline x="58" y="-60" angle="90"/>
+  <guideline x="58" y="-60" angle="90"/>
+  <guideline x="45" y="443" angle="90"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="71" y="404" type="line"/>
+      <point x="70" y="404"/>
+      <point x="45" y="404"/>
+      <point x="45" y="404" type="curve"/>
+    </contour>
+    <component base="acutecomb" xOffset="12" yOffset="-176"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 13:59:00</string>
+    </dict>
+  </lib>
+</glyph>

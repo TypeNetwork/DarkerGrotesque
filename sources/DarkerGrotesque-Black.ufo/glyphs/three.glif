@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three" format="2">
+  <advance width="541"/>
+  <unicode hex="0033"/>
+  <guideline x="475" y="-10" angle="0"/>
+  <guideline x="373" y="628" angle="90"/>
+  <guideline x="400" y="628" angle="90"/>
+  <guideline x="252" y="326" angle="0"/>
+  <guideline x="497" y="171" angle="90"/>
+  <guideline x="306" y="229" angle="0"/>
+  <guideline x="214" y="208" angle="0"/>
+  <guideline x="240" y="373" angle="0"/>
+  <guideline x="148" y="352" angle="0"/>
+  <outline>
+    <contour>
+      <point x="283" y="-10" type="curve"/>
+      <point x="414" y="-10"/>
+      <point x="506" y="49"/>
+      <point x="506" y="154" type="curve"/>
+      <point x="506" y="222"/>
+      <point x="458" y="279"/>
+      <point x="379" y="283" type="curve"/>
+      <point x="461" y="288"/>
+      <point x="497" y="349"/>
+      <point x="497" y="414" type="curve"/>
+      <point x="497" y="510"/>
+      <point x="418" y="573"/>
+      <point x="271" y="573" type="curve"/>
+      <point x="90" y="573"/>
+      <point x="46" y="422"/>
+      <point x="46" y="380" type="curve"/>
+      <point x="170" y="358" type="line"/>
+      <point x="170" y="408"/>
+      <point x="209" y="458"/>
+      <point x="275" y="458" type="curve"/>
+      <point x="335" y="458"/>
+      <point x="373" y="425"/>
+      <point x="373" y="378" type="curve"/>
+      <point x="373" y="330"/>
+      <point x="322" y="323"/>
+      <point x="280" y="323" type="curve"/>
+      <point x="224" y="323" type="line"/>
+      <point x="224" y="252" type="line"/>
+      <point x="277" y="252" type="line"/>
+      <point x="334" y="252"/>
+      <point x="375" y="232"/>
+      <point x="375" y="187" type="curve"/>
+      <point x="375" y="146"/>
+      <point x="342" y="110"/>
+      <point x="286" y="110" type="curve"/>
+      <point x="209" y="110"/>
+      <point x="169" y="159"/>
+      <point x="169" y="232" type="curve"/>
+      <point x="35" y="212" type="line"/>
+      <point x="32" y="64"/>
+      <point x="129" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/01 20:01:46</string>
+    </dict>
+  </lib>
+</glyph>

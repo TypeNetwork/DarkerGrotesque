@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="424"/>
+  <unicode hex="003F"/>
+  <guideline x="399" y="376" angle="0"/>
+  <guideline x="208" y="10" angle="90"/>
+  <outline>
+    <contour>
+      <point x="217" y="115" type="line"/>
+      <point x="222" y="261"/>
+      <point x="389" y="254"/>
+      <point x="389" y="404" type="curve"/>
+      <point x="389" y="505"/>
+      <point x="310" y="564"/>
+      <point x="218" y="564" type="curve"/>
+      <point x="107" y="564"/>
+      <point x="40" y="487"/>
+      <point x="40" y="380" type="curve"/>
+      <point x="67" y="380" type="line"/>
+      <point x="67" y="471"/>
+      <point x="119" y="539"/>
+      <point x="218" y="539" type="curve"/>
+      <point x="303" y="539"/>
+      <point x="365" y="486"/>
+      <point x="365" y="404" type="curve"/>
+      <point x="365" y="271"/>
+      <point x="198" y="268"/>
+      <point x="195" y="115" type="curve"/>
+    </contour>
+    <contour>
+      <point x="208" y="-9" type="curve"/>
+      <point x="224" y="-9"/>
+      <point x="227" y="2"/>
+      <point x="227" y="17" type="curve"/>
+      <point x="227" y="30"/>
+      <point x="224" y="41"/>
+      <point x="208" y="41" type="curve"/>
+      <point x="192" y="41"/>
+      <point x="189" y="30"/>
+      <point x="189" y="17" type="curve"/>
+      <point x="189" y="2"/>
+      <point x="192" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 14:19:45</string>
+    </dict>
+  </lib>
+</glyph>

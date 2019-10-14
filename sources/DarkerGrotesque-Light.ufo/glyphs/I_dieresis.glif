@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis" format="2">
+  <advance width="305"/>
+  <unicode hex="00CF"/>
+  <guideline x="149" y="437" angle="90"/>
+  <guideline x="253" y="563" angle="0"/>
+  <guideline x="255" y="617" angle="0"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresiscomb" xOffset="5" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:11:12</string>
+    </dict>
+  </lib>
+</glyph>

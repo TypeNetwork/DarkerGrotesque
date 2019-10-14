@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring.ss01" format="2">
+  <advance width="498"/>
+  <guideline x="365" y="438" angle="0"/>
+  <guideline x="365" y="414" angle="0"/>
+  <guideline x="233" y="279" angle="90"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="ringcomb" xOffset="96" yOffset="-126"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/28 01:31:13</string>
+    </dict>
+  </lib>
+</glyph>

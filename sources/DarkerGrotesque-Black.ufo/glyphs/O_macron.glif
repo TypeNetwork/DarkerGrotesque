@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacron" format="2">
+  <advance width="600"/>
+  <unicode hex="014C"/>
+  <guideline x="311" y="345" angle="90"/>
+  <outline>
+    <component base="O"/>
+    <component base="macron" xOffset="122" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:11:31</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <guideline x="429" y="820" angle="0"/>
+  <guideline x="429" y="877" angle="0"/>
+  <outline>
+    <component base="brevecomb"/>
+    <component base="acutecomb" xOffset="134" yOffset="210"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 13:56:15</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>432</integer>
+    </dict>
+  </lib>
+</glyph>

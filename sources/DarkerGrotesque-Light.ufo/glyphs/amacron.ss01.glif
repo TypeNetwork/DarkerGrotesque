@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron.ss01" format="2">
+  <advance width="448"/>
+  <guideline x="214" y="448" angle="90"/>
+  <guideline x="319" y="464" angle="0"/>
+  <guideline x="319" y="403" angle="0"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="macron" xOffset="59" yOffset="-274"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/28 01:31:04</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

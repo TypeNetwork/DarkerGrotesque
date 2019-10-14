@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve.ss01" format="2">
+  <advance width="448"/>
+  <guideline x="319" y="465" angle="0"/>
+  <guideline x="319" y="404" angle="0"/>
+  <guideline x="211" y="448" angle="90"/>
+  <guideline x="211" y="448" angle="90"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecomb" xOffset="56" yOffset="-208"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/28 01:30:21</string>
+    </dict>
+  </lib>
+</glyph>

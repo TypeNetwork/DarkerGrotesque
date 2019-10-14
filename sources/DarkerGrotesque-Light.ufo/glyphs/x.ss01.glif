@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x.ss01" format="2">
+  <advance width="341"/>
+  <guideline x="149" y="91" angle="0"/>
+  <guideline x="149" y="351" angle="0"/>
+  <guideline x="149" y="223" angle="0"/>
+  <outline>
+    <contour>
+      <point x="55" y="360" type="line"/>
+      <point x="267" y="148" type="line"/>
+      <point x="286" y="167" type="line"/>
+      <point x="74" y="379" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="168" type="line"/>
+      <point x="74" y="149" type="line"/>
+      <point x="285" y="361" type="line"/>
+      <point x="267" y="379" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/11 02:10:24</string>
+    </dict>
+  </lib>
+</glyph>

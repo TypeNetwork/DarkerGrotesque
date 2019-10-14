@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_hyphen.dlig" format="2">
+  <advance width="468"/>
+  <outline>
+    <contour>
+      <point x="35" y="212" type="line"/>
+      <point x="172" y="212"/>
+      <point x="174" y="333"/>
+      <point x="174" y="335" type="curve"/>
+      <point x="149" y="335" type="line"/>
+      <point x="149" y="331"/>
+      <point x="146" y="238"/>
+      <point x="35" y="238" type="curve"/>
+    </contour>
+    <contour>
+      <point x="433" y="212" type="line"/>
+      <point x="433" y="238" type="line"/>
+      <point x="35" y="238" type="line"/>
+      <point x="35" y="212" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="115" type="line"/>
+      <point x="174" y="116"/>
+      <point x="172" y="238"/>
+      <point x="35" y="238" type="curve"/>
+      <point x="35" y="212" type="line"/>
+      <point x="146" y="212"/>
+      <point x="149" y="119"/>
+      <point x="149" y="115" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/10 14:32:55</string>
+    </dict>
+  </lib>
+</glyph>

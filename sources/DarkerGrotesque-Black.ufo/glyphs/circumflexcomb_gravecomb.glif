@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <guideline x="284" y="782" angle="90"/>
+  <guideline x="231" y="789" angle="0"/>
+  <guideline x="224" y="756" angle="0"/>
+  <guideline x="346" y="784" angle="90"/>
+  <guideline x="231" y="758" angle="90"/>
+  <outline>
+    <component base="gravecomb" xOffset="12" yOffset="157"/>
+    <component base="circumflexcomb" xOffset="68"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 15:52:08</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>532</integer>
+    </dict>
+  </lib>
+</glyph>

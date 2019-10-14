@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="591"/>
+  <unicode hex="0041"/>
+  <guideline x="330" y="505" angle="0"/>
+  <guideline x="308" y="563" angle="0"/>
+  <outline>
+    <contour>
+      <point x="428" y="0" type="line"/>
+      <point x="577" y="0" type="line"/>
+      <point x="409" y="563" type="line"/>
+      <point x="180" y="563" type="line"/>
+      <point x="297" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="297" y="505" type="line"/>
+      <point x="409" y="563" type="line"/>
+      <point x="180" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="141" type="line"/>
+      <point x="439" y="141" type="line"/>
+      <point x="443" y="247" type="line"/>
+      <point x="148" y="247" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/12 13:08:33</string>
+    </dict>
+  </lib>
+</glyph>

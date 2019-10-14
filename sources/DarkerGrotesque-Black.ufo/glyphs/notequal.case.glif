@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.case" format="2">
+  <advance width="425"/>
+  <outline>
+    <contour>
+      <point x="54" y="94" type="line"/>
+      <point x="184" y="94" type="line"/>
+      <point x="352" y="468" type="line"/>
+      <point x="222" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="313" type="line"/>
+      <point x="370" y="313" type="line"/>
+      <point x="370" y="403" type="line"/>
+      <point x="40" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="156" type="line"/>
+      <point x="370" y="156" type="line"/>
+      <point x="370" y="246" type="line"/>
+      <point x="40" y="246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/11 02:52:45</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="482"/>
+  <unicode hex="0030"/>
+  <guideline x="359" y="549" angle="0"/>
+  <guideline x="359" y="573" angle="0"/>
+  <guideline x="457" y="213" angle="90"/>
+  <guideline x="430" y="213" angle="90"/>
+  <outline>
+    <contour>
+      <point x="241" y="-14" type="curve"/>
+      <point x="391" y="-14"/>
+      <point x="457" y="106"/>
+      <point x="457" y="280" type="curve"/>
+      <point x="457" y="458"/>
+      <point x="391" y="573"/>
+      <point x="241" y="573" type="curve"/>
+      <point x="88" y="573"/>
+      <point x="25" y="457"/>
+      <point x="25" y="280" type="curve"/>
+      <point x="25" y="100"/>
+      <point x="92" y="-14"/>
+    </contour>
+    <contour>
+      <point x="241" y="10" type="curve"/>
+      <point x="107" y="10"/>
+      <point x="52" y="117"/>
+      <point x="52" y="280" type="curve"/>
+      <point x="52" y="450"/>
+      <point x="111" y="549"/>
+      <point x="241" y="549" type="curve"/>
+      <point x="375" y="549"/>
+      <point x="430" y="443"/>
+      <point x="430" y="280" type="curve"/>
+      <point x="430" y="116"/>
+      <point x="372" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 09:20:17</string>
+    </dict>
+  </lib>
+</glyph>

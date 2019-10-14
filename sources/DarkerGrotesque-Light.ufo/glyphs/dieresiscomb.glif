@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="79" y="693" type="curve"/>
+      <point x="106" y="693"/>
+      <point x="112" y="709"/>
+      <point x="112" y="727" type="curve"/>
+      <point x="112" y="744"/>
+      <point x="106" y="760"/>
+      <point x="79" y="760" type="curve"/>
+      <point x="52" y="760"/>
+      <point x="45" y="744"/>
+      <point x="45" y="727" type="curve"/>
+      <point x="45" y="709"/>
+      <point x="52" y="693"/>
+    </contour>
+    <contour>
+      <point x="211" y="693" type="curve"/>
+      <point x="238" y="693"/>
+      <point x="244" y="709"/>
+      <point x="244" y="727" type="curve"/>
+      <point x="244" y="744"/>
+      <point x="238" y="760"/>
+      <point x="211" y="760" type="curve"/>
+      <point x="184" y="760"/>
+      <point x="177" y="744"/>
+      <point x="177" y="727" type="curve"/>
+      <point x="177" y="709"/>
+      <point x="184" y="693"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/06 03:31:21</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>289</integer>
+    </dict>
+  </lib>
+</glyph>

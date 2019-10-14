@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_t.dlig" format="2">
+  <advance width="643"/>
+  <outline>
+    <contour>
+      <point x="203" y="0" type="curve"/>
+      <point x="299" y="0" type="line"/>
+      <point x="299" y="107" type="line"/>
+      <point x="203" y="107" type="line"/>
+      <point x="203" y="332" type="line"/>
+      <point x="73" y="332" type="line"/>
+      <point x="73" y="130" type="line" smooth="yes"/>
+      <point x="73" y="31"/>
+      <point x="123" y="0"/>
+    </contour>
+    <contour>
+      <point x="15" y="319" type="line"/>
+      <point x="324" y="319" type="line"/>
+      <point x="324" y="414" type="line"/>
+      <point x="203" y="414" type="line"/>
+      <point x="203" y="519" type="line"/>
+      <point x="93" y="519" type="line"/>
+      <point x="93" y="426"/>
+      <point x="62" y="414"/>
+      <point x="15" y="414" type="curve"/>
+    </contour>
+    <contour>
+      <point x="512" y="0" type="curve"/>
+      <point x="608" y="0" type="line"/>
+      <point x="608" y="107" type="line"/>
+      <point x="512" y="107" type="line"/>
+      <point x="512" y="332" type="line"/>
+      <point x="382" y="332" type="line"/>
+      <point x="382" y="130" type="line" smooth="yes"/>
+      <point x="382" y="31"/>
+      <point x="432" y="0"/>
+    </contour>
+    <contour>
+      <point x="324" y="319" type="line"/>
+      <point x="605" y="319" type="line"/>
+      <point x="605" y="414" type="line"/>
+      <point x="512" y="414" type="line"/>
+      <point x="512" y="519" type="line"/>
+      <point x="402" y="519" type="line"/>
+      <point x="402" y="426"/>
+      <point x="371" y="414"/>
+      <point x="324" y="414" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 15:18:51</string>
+    </dict>
+  </lib>
+</glyph>

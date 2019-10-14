@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance width="464"/>
+  <unicode hex="00DD"/>
+  <guideline x="235" y="345" angle="90"/>
+  <guideline x="303" y="626" angle="0"/>
+  <guideline x="303" y="563" angle="0"/>
+  <guideline x="235" y="579" angle="90"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acutecomb" xOffset="162" yOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 12:05:27</string>
+    </dict>
+  </lib>
+</glyph>

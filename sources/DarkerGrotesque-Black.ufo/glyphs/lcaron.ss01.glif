@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.ss01" format="2">
+  <advance width="315"/>
+  <guideline x="233" y="217" angle="90"/>
+  <guideline x="181" y="217" angle="90"/>
+  <outline>
+    <contour>
+      <point x="233" y="389" type="line"/>
+      <point x="314" y="389" type="line"/>
+      <point x="390" y="563" type="line"/>
+      <point x="260" y="563" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/28 01:29:00</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="487"/>
+  <unicode hex="006F"/>
+  <guideline x="220" y="93" angle="0"/>
+  <guideline x="235" y="319" angle="0"/>
+  <guideline x="239" y="43" angle="90"/>
+  <outline>
+    <contour>
+      <point x="239" y="-10" type="curve"/>
+      <point x="388" y="-10"/>
+      <point x="457" y="82"/>
+      <point x="457" y="202" type="curve"/>
+      <point x="457" y="330"/>
+      <point x="382" y="415"/>
+      <point x="239" y="415" type="curve"/>
+      <point x="92" y="414"/>
+      <point x="18" y="325"/>
+      <point x="20" y="202" type="curve"/>
+      <point x="20" y="79"/>
+      <point x="92" y="-10"/>
+    </contour>
+    <contour>
+      <point x="239" y="106" type="curve"/>
+      <point x="164" y="106"/>
+      <point x="154" y="159"/>
+      <point x="154" y="207" type="curve"/>
+      <point x="154" y="256"/>
+      <point x="164" y="309"/>
+      <point x="239" y="309" type="curve"/>
+      <point x="313" y="309"/>
+      <point x="323" y="256"/>
+      <point x="323" y="207" type="curve"/>
+      <point x="323" y="159"/>
+      <point x="313" y="106"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 15:44:50</string>
+    </dict>
+  </lib>
+</glyph>

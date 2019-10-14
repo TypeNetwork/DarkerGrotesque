@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>1060</integer>
+    <key>capHeight</key>
+    <integer>563</integer>
+    <key>copyright</key>
+    <string>Copyright 2019 The Darkergrotesque Project Authors (https://github.com/bettergui/DarkerGrotesque)</string>
+    <key>descender</key>
+    <integer>-296</integer>
+    <key>familyName</key>
+    <string>Darker Grotesque</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2019/06/17 09:32:53</string>
+    <key>openTypeNameDesigner</key>
+    <string>Gabriel Lam</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>bygabriel.co</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>TypeRant</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>bygabriel.co</string>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleName</key>
+    <string>Black</string>
+    <key>trademark</key>
+    <string>Darker Grotesque is designed by Gia Bao Lam (also known as Gabriel Lam). For more information, please visit https://bygabriel.co/</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>414</integer>
+  </dict>
+</plist>

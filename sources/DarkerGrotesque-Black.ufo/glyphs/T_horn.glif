@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="500"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="563" type="line"/>
+      <point x="50" y="563" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="471" type="line"/>
+      <point x="171" y="359" type="line"/>
+      <point x="259" y="359" type="line"/>
+      <point x="316" y="359"/>
+      <point x="361" y="332"/>
+      <point x="361" y="275" type="curve"/>
+      <point x="361" y="219"/>
+      <point x="315" y="190"/>
+      <point x="259" y="190" type="curve"/>
+      <point x="172" y="190" type="line"/>
+      <point x="172" y="92" type="line"/>
+      <point x="280" y="92" type="line"/>
+      <point x="404" y="92"/>
+      <point x="487" y="161"/>
+      <point x="487" y="273" type="curve"/>
+      <point x="487" y="405"/>
+      <point x="408" y="471"/>
+      <point x="280" y="471" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 04:07:15</string>
+    </dict>
+  </lib>
+</glyph>

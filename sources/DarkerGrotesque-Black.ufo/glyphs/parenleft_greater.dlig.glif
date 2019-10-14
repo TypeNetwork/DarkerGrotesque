@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft_greater.dlig" format="2">
+  <advance width="657"/>
+  <guideline x="818" y="272" angle="0"/>
+  <outline>
+    <contour>
+      <point x="329" y="-14" type="curve"/>
+      <point x="488" y="-14"/>
+      <point x="622" y="117"/>
+      <point x="622" y="280" type="curve"/>
+      <point x="622" y="439"/>
+      <point x="488" y="573"/>
+      <point x="329" y="573" type="curve"/>
+      <point x="166" y="573"/>
+      <point x="35" y="439"/>
+      <point x="35" y="280" type="curve"/>
+      <point x="35" y="117"/>
+      <point x="166" y="-14"/>
+    </contour>
+    <contour>
+      <point x="329" y="50" type="curve"/>
+      <point x="203" y="50"/>
+      <point x="99" y="154"/>
+      <point x="99" y="279" type="curve"/>
+      <point x="99" y="405"/>
+      <point x="203" y="509"/>
+      <point x="329" y="509" type="curve"/>
+      <point x="455" y="509"/>
+      <point x="559" y="405"/>
+      <point x="559" y="279" type="curve"/>
+      <point x="559" y="154"/>
+      <point x="455" y="50"/>
+    </contour>
+    <contour>
+      <point x="317" y="245" type="line"/>
+      <point x="317" y="311" type="line"/>
+      <point x="368" y="279" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="142" type="line"/>
+      <point x="459" y="280" type="line"/>
+      <point x="257" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/18 06:36:33</string>
+    </dict>
+  </lib>
+</glyph>

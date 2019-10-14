@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ihookabove" format="2">
+  <advance width="221"/>
+  <unicode hex="1EC9"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="404" type="line"/>
+      <point x="111" y="404"/>
+      <point x="86" y="404"/>
+      <point x="86" y="404" type="curve"/>
+    </contour>
+    <component base="hookabovecomb" xOffset="17" yOffset="-171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 03:17:20</string>
+    </dict>
+  </lib>
+</glyph>

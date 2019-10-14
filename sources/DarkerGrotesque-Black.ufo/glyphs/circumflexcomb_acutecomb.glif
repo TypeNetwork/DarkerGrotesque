@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <guideline x="302" y="758" angle="90"/>
+  <guideline x="249" y="758" angle="90"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="-25"/>
+    <component base="acutecomb" xOffset="282" yOffset="158"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 14:31:55</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>565</integer>
+    </dict>
+  </lib>
+</glyph>

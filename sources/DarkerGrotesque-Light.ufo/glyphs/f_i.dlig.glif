@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_i.dlig" format="2">
+  <advance width="373"/>
+  <guideline x="554" y="317" angle="0"/>
+  <guideline x="330" y="154" angle="90"/>
+  <guideline x="143" y="154" angle="90"/>
+  <outline>
+    <contour>
+      <point x="80" y="-4" type="line"/>
+      <point x="108" y="-4" type="line"/>
+      <point x="108" y="538" type="line"/>
+      <point x="247" y="538" type="line"/>
+      <point x="247" y="563" type="line"/>
+      <point x="114" y="563" type="line"/>
+      <point x="80" y="563"/>
+      <point x="80" y="536"/>
+      <point x="80" y="516" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="10" y="379" type="line"/>
+      <point x="320" y="379" type="line"/>
+      <point x="320" y="404" type="line"/>
+      <point x="10" y="404" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="0" type="line"/>
+      <point x="321" y="0" type="line"/>
+      <point x="321" y="404" type="line"/>
+      <point x="320" y="404"/>
+      <point x="295" y="404"/>
+      <point x="295" y="404" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 15:13:37</string>
+    </dict>
+  </lib>
+</glyph>

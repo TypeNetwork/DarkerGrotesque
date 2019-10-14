@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="73" y="-77" type="curve"/>
+      <point x="95" y="-77"/>
+      <point x="100" y="-64"/>
+      <point x="100" y="-49" type="curve"/>
+      <point x="100" y="-35"/>
+      <point x="95" y="-22"/>
+      <point x="73" y="-22" type="curve"/>
+      <point x="51" y="-22"/>
+      <point x="45" y="-35"/>
+      <point x="45" y="-49" type="curve"/>
+      <point x="45" y="-64"/>
+      <point x="51" y="-77"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/07 02:51:26</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>145</integer>
+    </dict>
+  </lib>
+</glyph>

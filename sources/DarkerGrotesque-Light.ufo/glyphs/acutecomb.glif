@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <guideline x="142" y="591" angle="153.8574"/>
+  <guideline x="229" y="696" angle="153.8574"/>
+  <outline>
+    <contour>
+      <point x="54" y="632" type="line"/>
+      <point x="125" y="733" type="line"/>
+      <point x="125" y="744" type="line"/>
+      <point x="95" y="744" type="line"/>
+      <point x="38" y="638" type="line"/>
+      <point x="38" y="632" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 14:30:42</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>172</integer>
+    </dict>
+  </lib>
+</glyph>

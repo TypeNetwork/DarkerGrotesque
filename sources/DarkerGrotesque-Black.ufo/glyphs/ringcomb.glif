@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="137" y="585" type="curve"/>
+      <point x="211" y="585"/>
+      <point x="247" y="630"/>
+      <point x="247" y="691" type="curve"/>
+      <point x="247" y="757"/>
+      <point x="211" y="800"/>
+      <point x="137" y="800" type="curve"/>
+      <point x="61" y="800"/>
+      <point x="30" y="757"/>
+      <point x="30" y="691" type="curve"/>
+      <point x="30" y="627"/>
+      <point x="62" y="585"/>
+    </contour>
+    <contour>
+      <point x="135" y="665" type="curve"/>
+      <point x="114" y="665"/>
+      <point x="105" y="677"/>
+      <point x="105" y="694" type="curve"/>
+      <point x="105" y="710"/>
+      <point x="114" y="725"/>
+      <point x="135" y="725" type="curve"/>
+      <point x="158" y="725"/>
+      <point x="166" y="711"/>
+      <point x="166" y="694" type="curve"/>
+      <point x="166" y="677"/>
+      <point x="158" y="665"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/07 11:51:03</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>277</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="693"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="122" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="223" y="211" type="line"/>
+      <point x="360" y="563" type="line"/>
+      <point x="333" y="563" type="line"/>
+      <point x="268" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="186" type="line"/>
+      <point x="596" y="186" type="line"/>
+      <point x="596" y="211" type="line"/>
+      <point x="40" y="211" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="424" y="211" type="line"/>
+      <point x="561" y="563" type="line"/>
+      <point x="534" y="563" type="line"/>
+      <point x="470" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="377" type="line"/>
+      <point x="648" y="377" type="line"/>
+      <point x="648" y="402" type="line"/>
+      <point x="95" y="402" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/12/30 20:51:56</string>
+    </dict>
+  </lib>
+</glyph>

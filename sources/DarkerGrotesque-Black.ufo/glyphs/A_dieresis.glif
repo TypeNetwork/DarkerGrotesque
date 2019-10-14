@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis" format="2">
+  <advance width="591"/>
+  <unicode hex="00C4"/>
+  <guideline x="365" y="626" angle="0"/>
+  <guideline x="365" y="563" angle="0"/>
+  <guideline x="297" y="579" angle="90"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresiscomb" xOffset="74" yOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:10:41</string>
+    </dict>
+  </lib>
+</glyph>

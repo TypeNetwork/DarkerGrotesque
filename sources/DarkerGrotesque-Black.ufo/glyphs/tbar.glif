@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="334"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="296" y="19" type="curve"/>
+      <point x="299" y="96" type="line"/>
+      <point x="270" y="87"/>
+      <point x="203" y="71"/>
+      <point x="203" y="186" type="curve"/>
+      <point x="203" y="335" type="line"/>
+      <point x="73" y="335" type="line"/>
+      <point x="73" y="145" type="line"/>
+      <point x="73" y="0"/>
+      <point x="200" y="-45"/>
+    </contour>
+    <contour>
+      <point x="15" y="159" type="line"/>
+      <point x="296" y="159" type="line"/>
+      <point x="296" y="255" type="line"/>
+      <point x="15" y="255" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="310" type="line"/>
+      <point x="296" y="310" type="line"/>
+      <point x="296" y="417" type="line"/>
+      <point x="203" y="417" type="line"/>
+      <point x="203" y="522" type="line"/>
+      <point x="93" y="522" type="line"/>
+      <point x="93" y="429"/>
+      <point x="62" y="417"/>
+      <point x="15" y="417" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 01:47:37</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aacute.ss01" format="2">
+  <advance width="498"/>
+  <guideline x="365" y="414" angle="0"/>
+  <guideline x="233" y="279" angle="90"/>
+  <guideline x="365" y="477" angle="0"/>
+  <guideline x="365" y="414" angle="0"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="acutecomb" xOffset="172" yOffset="-171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/28 01:30:18</string>
+    </dict>
+  </lib>
+</glyph>

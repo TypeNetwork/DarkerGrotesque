@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udotbelow" format="2">
+  <advance width="558"/>
+  <unicode hex="1EE4"/>
+  <guideline x="277" y="437" angle="90"/>
+  <outline>
+    <component base="U"/>
+    <component base="dotbelowcomb" xOffset="204" yOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:11:46</string>
+    </dict>
+  </lib>
+</glyph>

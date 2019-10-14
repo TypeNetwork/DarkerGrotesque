@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde" format="2">
+  <advance width="464"/>
+  <unicode hex="1EF8"/>
+  <guideline x="235" y="345" angle="90"/>
+  <guideline x="235" y="345" angle="90"/>
+  <outline>
+    <component base="Y"/>
+    <component base="tildecomb" xOffset="41" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/07 11:43:13</string>
+    </dict>
+  </lib>
+</glyph>

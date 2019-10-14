@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="247"/>
+  <unicode hex="0167"/>
+  <guideline x="7" y="193" angle="90"/>
+  <outline>
+    <contour>
+      <point x="197" y="16" type="curve"/>
+      <point x="186" y="35" type="line"/>
+      <point x="149" y="-2"/>
+      <point x="102" y="11"/>
+      <point x="102" y="67" type="curve"/>
+      <point x="102" y="386" type="line"/>
+      <point x="75" y="386" type="line"/>
+      <point x="75" y="67" type="line"/>
+      <point x="75" y="-11"/>
+      <point x="141" y="-34"/>
+    </contour>
+    <contour>
+      <point x="18" y="210" type="line"/>
+      <point x="178" y="210" type="line"/>
+      <point x="178" y="235" type="line"/>
+      <point x="18" y="235" type="line"/>
+    </contour>
+    <contour>
+      <point x="7" y="379" type="line"/>
+      <point x="197" y="379" type="line"/>
+      <point x="197" y="404" type="line"/>
+      <point x="102" y="404" type="line"/>
+      <point x="102" y="509" type="line"/>
+      <point x="75" y="509" type="line"/>
+      <point x="75" y="404"/>
+      <point x="82" y="404"/>
+      <point x="7" y="404" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 01:47:37</string>
+    </dict>
+  </lib>
+</glyph>

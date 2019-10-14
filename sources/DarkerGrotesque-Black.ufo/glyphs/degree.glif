@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="295"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="147" y="338" type="curve"/>
+      <point x="228" y="338"/>
+      <point x="267" y="387"/>
+      <point x="267" y="454" type="curve"/>
+      <point x="267" y="526"/>
+      <point x="228" y="573"/>
+      <point x="147" y="573" type="curve"/>
+      <point x="64" y="573"/>
+      <point x="30" y="526"/>
+      <point x="30" y="454" type="curve"/>
+      <point x="30" y="384"/>
+      <point x="65" y="338"/>
+    </contour>
+    <contour>
+      <point x="145" y="425" type="curve"/>
+      <point x="122" y="425"/>
+      <point x="112" y="439"/>
+      <point x="112" y="457" type="curve"/>
+      <point x="112" y="475"/>
+      <point x="122" y="491"/>
+      <point x="145" y="491" type="curve"/>
+      <point x="170" y="491"/>
+      <point x="179" y="476"/>
+      <point x="179" y="457" type="curve"/>
+      <point x="179" y="439"/>
+      <point x="170" y="425"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/01 18:46:42</string>
+    </dict>
+  </lib>
+</glyph>

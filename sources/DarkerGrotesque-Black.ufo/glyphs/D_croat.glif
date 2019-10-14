@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance width="600"/>
+  <unicode hex="0110"/>
+  <guideline x="314" y="283" angle="0"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="152" y="0"/>
+      <point x="198" y="0"/>
+      <point x="221" y="0" type="curve"/>
+      <point x="443" y="0"/>
+      <point x="585" y="60"/>
+      <point x="585" y="282" type="curve"/>
+      <point x="585" y="469"/>
+      <point x="443" y="563"/>
+      <point x="221" y="563" type="curve"/>
+      <point x="200" y="563"/>
+      <point x="158" y="563"/>
+      <point x="60" y="563" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="241" type="line"/>
+      <point x="315" y="241" type="line"/>
+      <point x="315" y="331" type="line"/>
+      <point x="0" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="114" type="curve"/>
+      <point x="198" y="443" type="line"/>
+      <point x="264" y="443" type="line"/>
+      <point x="372" y="443"/>
+      <point x="436" y="389"/>
+      <point x="436" y="283" type="curve"/>
+      <point x="436" y="144"/>
+      <point x="372" y="114"/>
+      <point x="264" y="114" type="curve"/>
+      <point x="256" y="114"/>
+      <point x="237" y="114"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:10:51</string>
+    </dict>
+  </lib>
+</glyph>

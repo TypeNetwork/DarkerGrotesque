@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.dnom" format="2">
+  <advance width="255"/>
+  <outline>
+    <contour>
+      <point x="109" y="0" type="curve"/>
+      <point x="41" y="0" type="line"/>
+      <point x="41" y="113"/>
+      <point x="103" y="195"/>
+      <point x="178" y="217" type="curve"/>
+      <point x="15" y="217" type="line"/>
+      <point x="15" y="277" type="line"/>
+      <point x="240" y="277" type="line"/>
+      <point x="240" y="218" type="line"/>
+      <point x="200" y="204"/>
+      <point x="109" y="154"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/01 19:35:15</string>
+    </dict>
+  </lib>
+</glyph>

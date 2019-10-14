@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="625"/>
+  <unicode hex="0044"/>
+  <guideline x="128" y="562" angle="0"/>
+  <guideline x="121" y="468" angle="0"/>
+  <guideline x="169" y="563" angle="0"/>
+  <guideline x="121" y="468" angle="0"/>
+  <guideline x="465" y="132" angle="90"/>
+  <guideline x="567" y="137" angle="90"/>
+  <guideline x="128" y="94" angle="0"/>
+  <guideline x="121" y="0" angle="0"/>
+  <outline>
+    <contour>
+      <point x="198" y="114" type="line"/>
+      <point x="237" y="114"/>
+      <point x="256" y="114"/>
+      <point x="264" y="114" type="curve"/>
+      <point x="372" y="114"/>
+      <point x="436" y="144"/>
+      <point x="436" y="283" type="curve"/>
+      <point x="436" y="389"/>
+      <point x="372" y="443"/>
+      <point x="264" y="443" type="curve"/>
+      <point x="198" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="585" y="282" type="curve"/>
+      <point x="585" y="60"/>
+      <point x="443" y="0"/>
+      <point x="221" y="0" type="curve"/>
+      <point x="198" y="0"/>
+      <point x="152" y="0"/>
+      <point x="60" y="0" type="curve"/>
+      <point x="60" y="563" type="line"/>
+      <point x="158" y="563"/>
+      <point x="200" y="563"/>
+      <point x="221" y="563" type="curve"/>
+      <point x="443" y="563"/>
+      <point x="585" y="469"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:10:51</string>
+    </dict>
+  </lib>
+</glyph>

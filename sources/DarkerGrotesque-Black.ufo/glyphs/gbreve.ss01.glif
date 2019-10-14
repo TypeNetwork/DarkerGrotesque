@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gbreve.ss01" format="2">
+  <advance width="474"/>
+  <outline>
+    <component base="g.ss01"/>
+    <component base="brevecomb" xOffset="32" yOffset="-91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/28 01:32:09</string>
+    </dict>
+  </lib>
+</glyph>

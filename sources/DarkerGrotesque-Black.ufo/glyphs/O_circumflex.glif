@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflex" format="2">
+  <advance width="619"/>
+  <unicode hex="00D4"/>
+  <guideline x="365" y="626" angle="0"/>
+  <guideline x="365" y="563" angle="0"/>
+  <guideline x="311" y="345" angle="90"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcomb" xOffset="57" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 02:46:57</string>
+    </dict>
+  </lib>
+</glyph>

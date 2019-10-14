@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="169"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="92" y="404" type="line"/>
+      <point x="81" y="404"/>
+      <point x="83" y="404"/>
+      <point x="66" y="404" type="curve"/>
+    </contour>
+    <component base="tildecomb" xOffset="-95" yOffset="-109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 12:59:00</string>
+    </dict>
+  </lib>
+</glyph>

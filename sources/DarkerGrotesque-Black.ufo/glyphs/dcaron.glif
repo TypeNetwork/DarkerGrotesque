@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="649"/>
+  <unicode hex="010F"/>
+  <guideline x="512" y="204" angle="90"/>
+  <guideline x="460" y="204" angle="90"/>
+  <outline>
+    <contour>
+      <point x="512" y="389" type="line"/>
+      <point x="593" y="389" type="line"/>
+      <point x="669" y="563" type="line"/>
+      <point x="539" y="563" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 10:25:30</string>
+    </dict>
+  </lib>
+</glyph>

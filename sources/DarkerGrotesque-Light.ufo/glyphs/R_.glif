@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="508"/>
+  <unicode hex="0052"/>
+  <guideline x="320" y="556" angle="90"/>
+  <guideline x="293" y="536" angle="0"/>
+  <guideline x="291" y="-10" angle="0"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="95" y="253" type="line"/>
+      <point x="381" y="253"/>
+      <point x="402" y="278"/>
+      <point x="402" y="59" type="curve"/>
+      <point x="402" y="-29"/>
+      <point x="473" y="-8"/>
+      <point x="473" y="-8" type="curve"/>
+      <point x="473" y="17" type="line"/>
+      <point x="362" y="-21"/>
+      <point x="510" y="266"/>
+      <point x="313" y="266" type="curve"/>
+      <point x="409" y="266"/>
+      <point x="449" y="337"/>
+      <point x="449" y="407" type="curve"/>
+      <point x="449" y="530"/>
+      <point x="373" y="563"/>
+      <point x="232" y="563" type="curve"/>
+      <point x="68" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="278" type="line"/>
+      <point x="95" y="537" type="line"/>
+      <point x="232" y="537" type="line"/>
+      <point x="355" y="537"/>
+      <point x="424" y="520"/>
+      <point x="424" y="407" type="curve"/>
+      <point x="424" y="311"/>
+      <point x="370" y="278"/>
+      <point x="257" y="278" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 13:25:33</string>
+    </dict>
+  </lib>
+</glyph>

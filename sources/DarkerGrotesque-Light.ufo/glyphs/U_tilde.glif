@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utilde" format="2">
+  <advance width="558"/>
+  <unicode hex="0168"/>
+  <guideline x="363" y="563" angle="0"/>
+  <guideline x="365" y="617" angle="0"/>
+  <guideline x="277" y="437" angle="90"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildecomb" xOffset="101" yOffset="43"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:11:46</string>
+    </dict>
+  </lib>
+</glyph>

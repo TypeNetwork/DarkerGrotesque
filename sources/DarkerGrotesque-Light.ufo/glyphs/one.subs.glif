@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.subs" format="2">
+  <advance width="156"/>
+  <outline>
+    <contour>
+      <point x="75" y="-127" type="line"/>
+      <point x="101" y="-127" type="line"/>
+      <point x="101" y="138" type="line"/>
+      <point x="77" y="138" type="line"/>
+      <point x="76" y="88"/>
+      <point x="22" y="80"/>
+      <point x="15" y="80" type="curve"/>
+      <point x="15" y="51" type="line"/>
+      <point x="22" y="51"/>
+      <point x="61" y="58"/>
+      <point x="75" y="97" type="curve"/>
+    </contour>
+    <contour>
+      <point x="31" y="-139" type="line"/>
+      <point x="141" y="-139" type="line"/>
+      <point x="141" y="-114" type="line"/>
+      <point x="31" y="-114" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/11 03:19:30</string>
+    </dict>
+  </lib>
+</glyph>

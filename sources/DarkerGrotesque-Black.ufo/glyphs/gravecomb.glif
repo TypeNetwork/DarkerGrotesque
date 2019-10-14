@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <outline>
+    <contour>
+      <point x="125" y="632" type="line"/>
+      <point x="187" y="632" type="line"/>
+      <point x="187" y="649" type="line"/>
+      <point x="148" y="746" type="line"/>
+      <point x="33" y="746" type="line"/>
+      <point x="33" y="724" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 14:30:48</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>220</integer>
+    </dict>
+  </lib>
+</glyph>

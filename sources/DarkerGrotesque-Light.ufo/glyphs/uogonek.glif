@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uogonek" format="2">
+  <advance width="430"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="325" y="-198" type="curve"/>
+      <point x="375" y="-198"/>
+      <point x="397" y="-155"/>
+      <point x="397" y="-155" type="curve"/>
+      <point x="375" y="-140" type="line"/>
+      <point x="375" y="-140"/>
+      <point x="366" y="-174"/>
+      <point x="325" y="-174" type="curve"/>
+      <point x="291" y="-174"/>
+      <point x="273" y="-152"/>
+      <point x="273" y="-123" type="curve"/>
+      <point x="273" y="-49"/>
+      <point x="375" y="0"/>
+      <point x="375" y="0" type="curve"/>
+      <point x="370" y="13" type="line"/>
+      <point x="370" y="13"/>
+      <point x="249" y="-37"/>
+      <point x="249" y="-123" type="curve"/>
+      <point x="249" y="-165"/>
+      <point x="276" y="-198"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 12:37:50</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="478"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="251" y="284" type="line"/>
+      <point x="448" y="548" type="line"/>
+      <point x="428" y="562" type="line"/>
+      <point x="239" y="292" type="line"/>
+      <point x="30" y="15" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/12/30 22:13:25</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.sups" format="2">
+  <advance width="244"/>
+  <outline>
+    <contour>
+      <point x="15" y="463" type="line"/>
+      <point x="229" y="463" type="line"/>
+      <point x="229" y="488" type="line"/>
+      <point x="46" y="488" type="line"/>
+      <point x="110" y="532"/>
+      <point x="160" y="608"/>
+      <point x="160" y="681" type="curve"/>
+      <point x="130" y="681" type="line"/>
+      <point x="129" y="609"/>
+      <point x="78" y="518"/>
+      <point x="15" y="488" type="curve"/>
+    </contour>
+    <contour>
+      <point x="162" y="404" type="line"/>
+      <point x="190" y="404" type="line"/>
+      <point x="190" y="542" type="line"/>
+      <point x="162" y="542" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/11 03:17:24</string>
+    </dict>
+  </lib>
+</glyph>

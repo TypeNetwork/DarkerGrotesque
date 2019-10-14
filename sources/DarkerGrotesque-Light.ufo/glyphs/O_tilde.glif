@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde" format="2">
+  <advance width="597"/>
+  <unicode hex="00D5"/>
+  <guideline x="363" y="563" angle="0"/>
+  <guideline x="365" y="617" angle="0"/>
+  <guideline x="293" y="437" angle="90"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb" xOffset="115" yOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/14 08:39:26</string>
+    </dict>
+  </lib>
+</glyph>

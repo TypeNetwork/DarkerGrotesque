@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.sups" format="2">
+  <advance width="234"/>
+  <outline>
+    <contour>
+      <point x="115" y="394" type="curve"/>
+      <point x="180" y="394"/>
+      <point x="216" y="440"/>
+      <point x="219" y="485" type="curve" smooth="yes"/>
+      <point x="222" y="532"/>
+      <point x="191" y="579"/>
+      <point x="125" y="579" type="curve"/>
+      <point x="69" y="579"/>
+      <point x="49" y="547"/>
+      <point x="49" y="547" type="curve"/>
+      <point x="59" y="646" type="line"/>
+      <point x="206" y="646" type="line"/>
+      <point x="206" y="671" type="line"/>
+      <point x="38" y="671" type="line"/>
+      <point x="24" y="532" type="line"/>
+      <point x="51" y="526" type="line"/>
+      <point x="51" y="527"/>
+      <point x="69" y="558"/>
+      <point x="119" y="558" type="curve"/>
+      <point x="169" y="558"/>
+      <point x="195" y="521"/>
+      <point x="193" y="486" type="curve" smooth="yes"/>
+      <point x="191" y="453"/>
+      <point x="165" y="418"/>
+      <point x="116" y="418" type="curve"/>
+      <point x="56" y="418"/>
+      <point x="44" y="463"/>
+      <point x="43" y="468" type="curve"/>
+      <point x="15" y="465" type="line"/>
+      <point x="26" y="422"/>
+      <point x="61" y="394"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/11 03:17:24</string>
+    </dict>
+  </lib>
+</glyph>

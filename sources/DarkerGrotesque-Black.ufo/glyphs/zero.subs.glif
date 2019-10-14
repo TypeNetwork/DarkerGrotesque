@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.subs" format="2">
+  <advance width="273"/>
+  <outline>
+    <contour>
+      <point x="137" y="-139" type="curve"/>
+      <point x="220" y="-139"/>
+      <point x="258" y="-82"/>
+      <point x="258" y="0" type="curve"/>
+      <point x="258" y="84"/>
+      <point x="220" y="138"/>
+      <point x="137" y="138" type="curve"/>
+      <point x="52" y="138"/>
+      <point x="15" y="83"/>
+      <point x="15" y="0" type="curve"/>
+      <point x="15" y="-85"/>
+      <point x="55" y="-139"/>
+    </contour>
+    <contour>
+      <point x="136" y="-85" type="curve"/>
+      <point x="94" y="-85"/>
+      <point x="76" y="-58"/>
+      <point x="76" y="0" type="curve"/>
+      <point x="76" y="59"/>
+      <point x="95" y="84"/>
+      <point x="136" y="84" type="curve"/>
+      <point x="179" y="84"/>
+      <point x="198" y="57"/>
+      <point x="198" y="0" type="curve"/>
+      <point x="198" y="-58"/>
+      <point x="178" y="-85"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/11 03:19:23</string>
+    </dict>
+  </lib>
+</glyph>

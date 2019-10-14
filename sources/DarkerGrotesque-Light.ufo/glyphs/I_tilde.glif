@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Itilde" format="2">
+  <advance width="305"/>
+  <unicode hex="0128"/>
+  <guideline x="148" y="-56" angle="90"/>
+  <outline>
+    <component base="I"/>
+    <component base="tildecomb" xOffset="-28" yOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:11:12</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.subs" format="2">
+  <advance width="255"/>
+  <outline>
+    <contour>
+      <point x="109" y="-139" type="curve"/>
+      <point x="41" y="-139" type="line"/>
+      <point x="41" y="-26"/>
+      <point x="103" y="56"/>
+      <point x="178" y="78" type="curve"/>
+      <point x="15" y="78" type="line"/>
+      <point x="15" y="138" type="line"/>
+      <point x="240" y="138" type="line"/>
+      <point x="240" y="79" type="line"/>
+      <point x="200" y="65"/>
+      <point x="109" y="15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/11 03:19:30</string>
+    </dict>
+  </lib>
+</glyph>

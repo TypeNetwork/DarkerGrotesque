@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nbspace.001" format="2">
+  <advance width="255"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>space</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/06/18 04:42:14</string>
+    </dict>
+  </lib>
+</glyph>

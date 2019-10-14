@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="877"/>
+  <unicode hex="00C6"/>
+  <guideline x="88" y="505" angle="0"/>
+  <guideline x="66" y="563" angle="0"/>
+  <outline>
+    <contour>
+      <point x="404" y="0" type="line"/>
+      <point x="841" y="0" type="line"/>
+      <point x="841" y="111" type="line"/>
+      <point x="541" y="111" type="line"/>
+      <point x="541" y="229" type="line"/>
+      <point x="756" y="229" type="line"/>
+      <point x="756" y="341" type="line"/>
+      <point x="541" y="341" type="line"/>
+      <point x="541" y="444" type="line"/>
+      <point x="830" y="444" type="line"/>
+      <point x="830" y="563" type="line"/>
+      <point x="404" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="141" type="line"/>
+      <point x="439" y="141" type="line"/>
+      <point x="443" y="247" type="line"/>
+      <point x="148" y="247" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="432" y="563" type="line"/>
+      <point x="300" y="563" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 03:55:21</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="357"/>
+  <unicode hex="2260"/>
+  <guideline x="375" y="157" angle="0"/>
+  <guideline x="375" y="68" angle="0"/>
+  <guideline x="375" y="378" angle="0"/>
+  <guideline x="375" y="289" angle="0"/>
+  <outline>
+    <contour>
+      <point x="76" y="52" type="line"/>
+      <point x="106" y="52" type="line"/>
+      <point x="245" y="362" type="line"/>
+      <point x="215" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="141" type="line"/>
+      <point x="302" y="141" type="line"/>
+      <point x="302" y="165" type="line"/>
+      <point x="40" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="249" type="line"/>
+      <point x="302" y="249" type="line"/>
+      <point x="302" y="273" type="line"/>
+      <point x="40" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/01 16:24:08</string>
+    </dict>
+  </lib>
+</glyph>

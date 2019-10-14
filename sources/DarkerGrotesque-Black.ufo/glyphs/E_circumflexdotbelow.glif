@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexdotbelow" format="2">
+  <advance width="523"/>
+  <unicode hex="1EC6"/>
+  <guideline x="263" y="579" angle="90"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb" xOffset="143" yOffset="-51"/>
+    <component base="circumflexcomb" xOffset="13" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:11:04</string>
+    </dict>
+  </lib>
+</glyph>

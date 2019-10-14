@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="434"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="10" y="538" type="line"/>
+      <point x="425" y="538" type="line"/>
+      <point x="425" y="563" type="line"/>
+      <point x="10" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="302" type="line"/>
+      <point x="380" y="302" type="line"/>
+      <point x="380" y="327" type="line"/>
+      <point x="55" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="545" type="line"/>
+      <point x="205" y="545" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="231" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 01:43:53</string>
+    </dict>
+  </lib>
+</glyph>

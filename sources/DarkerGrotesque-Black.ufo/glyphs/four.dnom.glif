@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnom" format="2">
+  <advance width="264"/>
+  <outline>
+    <contour>
+      <point x="15" y="50" type="line"/>
+      <point x="249" y="50" type="line"/>
+      <point x="249" y="108" type="line"/>
+      <point x="82" y="108" type="line"/>
+      <point x="154" y="152"/>
+      <point x="192" y="221"/>
+      <point x="192" y="277" type="curve"/>
+      <point x="117" y="277" type="line"/>
+      <point x="117" y="222"/>
+      <point x="86" y="138"/>
+      <point x="15" y="108" type="curve"/>
+    </contour>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="138" type="line"/>
+      <point x="150" y="138" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/01 19:35:15</string>
+    </dict>
+  </lib>
+</glyph>

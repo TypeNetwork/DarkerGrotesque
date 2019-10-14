@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+  <outline>
+    <component base="circumflexcomb"/>
+    <component base="hookabovecomb" xOffset="215" yOffset="91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 15:52:11</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>439</integer>
+    </dict>
+  </lib>
+</glyph>

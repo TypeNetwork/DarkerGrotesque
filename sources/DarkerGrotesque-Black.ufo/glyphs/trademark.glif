@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="478"/>
+  <unicode hex="2122"/>
+  <guideline x="681" y="354" angle="0"/>
+  <outline>
+    <contour>
+      <point x="169" y="518" type="line"/>
+      <point x="106" y="518" type="line"/>
+      <point x="106" y="354" type="line"/>
+      <point x="54" y="354" type="line"/>
+      <point x="54" y="518" type="line"/>
+      <point x="-10" y="518" type="line"/>
+      <point x="-10" y="562" type="line"/>
+      <point x="169" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="354" type="line"/>
+      <point x="387" y="354" type="line"/>
+      <point x="392" y="540" type="line"/>
+      <point x="360" y="354" type="line"/>
+      <point x="284" y="354" type="line"/>
+      <point x="252" y="540" type="line"/>
+      <point x="255" y="354" type="line"/>
+      <point x="201" y="354" type="line"/>
+      <point x="201" y="562" type="line"/>
+      <point x="292" y="562" type="line"/>
+      <point x="322" y="376" type="line"/>
+      <point x="352" y="562" type="line"/>
+      <point x="443" y="562" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/01 19:08:14</string>
+    </dict>
+  </lib>
+</glyph>

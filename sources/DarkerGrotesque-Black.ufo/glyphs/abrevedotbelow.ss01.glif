@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevedotbelow.ss01" format="2">
+  <advance width="498"/>
+  <guideline x="250" y="279" angle="90"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecomb" xOffset="32" yOffset="-240"/>
+    <component base="dotbelowcomb" xOffset="123" yOffset="-50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/28 01:30:24</string>
+    </dict>
+  </lib>
+</glyph>

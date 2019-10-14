@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="600"/>
+  <unicode hex="0126"/>
+  <guideline x="545" y="380" angle="90"/>
+  <guideline x="591" y="380" angle="90"/>
+  <guideline x="4" y="380" angle="90"/>
+  <guideline x="50" y="380" angle="90"/>
+  <outline>
+    <contour>
+      <point x="405" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="545" y="563" type="line"/>
+      <point x="405" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="563" type="line"/>
+      <point x="50" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="230" type="line"/>
+      <point x="494" y="230" type="line"/>
+      <point x="494" y="336" type="line"/>
+      <point x="110" y="336" type="line"/>
+    </contour>
+    <contour>
+      <point x="4" y="404" type="line"/>
+      <point x="591" y="404" type="line"/>
+      <point x="591" y="500" type="line"/>
+      <point x="4" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/09 01:40:39</string>
+    </dict>
+  </lib>
+</glyph>

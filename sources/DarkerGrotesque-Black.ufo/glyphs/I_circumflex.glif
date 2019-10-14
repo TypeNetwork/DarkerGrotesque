@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex" format="2">
+  <advance width="415"/>
+  <unicode hex="00CE"/>
+  <guideline x="203" y="579" angle="90"/>
+  <guideline x="310" y="626" angle="0"/>
+  <outline>
+    <component base="I"/>
+    <component base="circumflexcomb" xOffset="-43" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:11:12</string>
+    </dict>
+  </lib>
+</glyph>

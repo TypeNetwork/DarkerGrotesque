@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrow" format="2">
+  <advance width="388"/>
+  <unicode hex="2190"/>
+  <outline>
+    <contour>
+      <point x="35" y="212" type="line"/>
+      <point x="172" y="212"/>
+      <point x="174" y="333"/>
+      <point x="174" y="335" type="curve"/>
+      <point x="149" y="335" type="line"/>
+      <point x="149" y="331"/>
+      <point x="146" y="238"/>
+      <point x="35" y="238" type="curve"/>
+    </contour>
+    <contour>
+      <point x="149" y="115" type="curve"/>
+      <point x="174" y="115" type="line"/>
+      <point x="174" y="116"/>
+      <point x="172" y="238"/>
+      <point x="35" y="238" type="curve"/>
+      <point x="35" y="212" type="line"/>
+      <point x="146" y="212"/>
+      <point x="149" y="119"/>
+    </contour>
+    <contour>
+      <point x="35" y="212" type="line"/>
+      <point x="353" y="212" type="line"/>
+      <point x="353" y="238" type="line"/>
+      <point x="35" y="238" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/01 20:16:49</string>
+    </dict>
+  </lib>
+</glyph>

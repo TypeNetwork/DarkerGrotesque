@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcommaaccent" format="2">
+  <advance width="419"/>
+  <unicode hex="0137"/>
+  <outline>
+    <contour>
+      <point x="82" y="-1" type="line"/>
+      <point x="82" y="563" type="line"/>
+      <point x="55" y="563" type="line"/>
+      <point x="55" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="229" type="line"/>
+      <point x="178" y="211" type="line"/>
+      <point x="358" y="-2" type="line"/>
+      <point x="394" y="-2" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="106" type="line"/>
+      <point x="390" y="404" type="line"/>
+      <point x="351" y="404" type="line"/>
+      <point x="75" y="143" type="line"/>
+    </contour>
+    <component base="commaaccentcomb" xOffset="107" yOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/08 13:28:23</string>
+    </dict>
+  </lib>
+</glyph>

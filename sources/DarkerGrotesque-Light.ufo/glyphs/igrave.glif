@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="140"/>
+  <unicode hex="00EC"/>
+  <guideline x="70" y="-60" angle="90"/>
+  <guideline x="83" y="443" angle="90"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="83" y="404" type="line"/>
+      <point x="82" y="404"/>
+      <point x="57" y="404"/>
+      <point x="57" y="404" type="curve"/>
+    </contour>
+    <component base="gravecomb" xOffset="-50" yOffset="-180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/30 14:29:26</string>
+    </dict>
+  </lib>
+</glyph>

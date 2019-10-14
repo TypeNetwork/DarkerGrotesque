@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N_o.dlig" format="2">
+  <advance width="867"/>
+  <outline>
+    <contour>
+      <point x="693" y="313" type="curve"/>
+      <point x="767" y="313"/>
+      <point x="801" y="369"/>
+      <point x="801" y="442" type="curve"/>
+      <point x="801" y="521"/>
+      <point x="763" y="573"/>
+      <point x="693" y="573" type="curve"/>
+      <point x="620" y="573"/>
+      <point x="584" y="519"/>
+      <point x="584" y="442" type="curve"/>
+      <point x="584" y="367"/>
+      <point x="620" y="313"/>
+    </contour>
+    <contour>
+      <point x="693" y="337" type="curve"/>
+      <point x="630" y="337"/>
+      <point x="611" y="392"/>
+      <point x="611" y="443" type="curve"/>
+      <point x="611" y="494"/>
+      <point x="630" y="549"/>
+      <point x="693" y="549" type="curve"/>
+      <point x="756" y="549"/>
+      <point x="774" y="494"/>
+      <point x="774" y="443" type="curve"/>
+      <point x="774" y="392"/>
+      <point x="756" y="337"/>
+    </contour>
+    <contour>
+      <point x="582" y="222" type="line"/>
+      <point x="802" y="222" type="line"/>
+      <point x="802" y="248" type="line"/>
+      <point x="582" y="248" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/10 15:05:56</string>
+    </dict>
+  </lib>
+</glyph>

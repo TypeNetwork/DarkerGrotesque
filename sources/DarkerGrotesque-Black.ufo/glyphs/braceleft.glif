@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
+  <advance width="392"/>
+  <unicode hex="007B"/>
+  <guideline x="130" y="-306" angle="90"/>
+  <outline>
+    <contour>
+      <point x="362" y="-196" type="curve"/>
+      <point x="362" y="-66" type="line"/>
+      <point x="216" y="-98"/>
+      <point x="243" y="-25"/>
+      <point x="252" y="36" type="curve"/>
+      <point x="268" y="132"/>
+      <point x="243" y="191"/>
+      <point x="135" y="203" type="curve"/>
+      <point x="243" y="214"/>
+      <point x="267" y="276"/>
+      <point x="252" y="372" type="curve"/>
+      <point x="243" y="432"/>
+      <point x="216" y="506"/>
+      <point x="362" y="473" type="curve"/>
+      <point x="362" y="603" type="line"/>
+      <point x="130" y="641"/>
+      <point x="77" y="567"/>
+      <point x="113" y="370" type="curve"/>
+      <point x="130" y="271"/>
+      <point x="60" y="271"/>
+      <point x="30" y="271" type="curve"/>
+      <point x="30" y="137" type="line"/>
+      <point x="60" y="137"/>
+      <point x="130" y="137"/>
+      <point x="113" y="38" type="curve"/>
+      <point x="76" y="-159"/>
+      <point x="130" y="-247"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/01/01 04:20:32</string>
+    </dict>
+  </lib>
+</glyph>

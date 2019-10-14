@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent.ss01" format="2">
+  <advance width="476"/>
+  <outline>
+    <contour>
+      <point x="183" y="600" type="line"/>
+      <point x="264" y="600" type="line"/>
+      <point x="340" y="774" type="line"/>
+      <point x="210" y="774" type="line"/>
+    </contour>
+    <component base="g.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/28 01:32:11</string>
+    </dict>
+  </lib>
+</glyph>
